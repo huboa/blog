@@ -1,0 +1,10 @@
+version: '2'
+services:
+  allmark:
+    image: andreaskoch/allmark
+    container_name: allmark
+    ports:
+      - "80:33001"
+    volumes:
+      - ../blog:/data
+    restart: always
