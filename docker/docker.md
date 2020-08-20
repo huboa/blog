@@ -14,7 +14,7 @@ CLI使用Docker API通过脚本或直接CLI命令控制或与Docker守护程序�
 产品手册 https://docs.docker.com/engine/
 
 ### docker搜索热度曲线
-![avatar](./docker-trend.png)
+![avatar](./files/docker-trend.png)
 
 ### 版本介绍
 * 目前docker 分为 社区版和商业版。我们目前常用的社区版。
@@ -29,7 +29,7 @@ https://docs.docker.com/engine/release-notes/
 * 该安装部分向您展示如何在各种平台上安装docker。
 * 桌面系统支持macOS,window10.
 * 服务器系统OS支持linux . 我们目前采用了 centos
-![avatar](./docker-in-pic.png)
+![avatar](./files/docker-in-pic.png)
 详细: https://docs.docker.com/engine/install/
 
 
